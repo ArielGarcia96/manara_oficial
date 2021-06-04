@@ -1,0 +1,60 @@
+.my-nav {
+    margin: 0;
+    padding: 0;
+    background-color: #E7DCD6;
+}
+.my-nav > .container-fluid {
+    background-color: #e9dcd6;
+}
+.my-carrusel-main {
+    width: 50vw;
+    height: 50vh;
+}
+
+.my-carrusel-main > .carousel-inner {
+    width: 50vw;
+    height: 50vh;
+}
+.carousel-item > img {
+    width: 50vw;
+    height: 60vh;
+}
+.my-carrusel {
+    margin-top: 2rem;
+}
+
+.cards-jabones {
+    margin-top: 4rem;
+}
+.card {
+    border: none;
+}
+
+.logo {
+    width: 100px;
+}
+.my-btn {
+    background-color: #E7DCD6;
+    color: black;
+    border: none;
+}
+
+footer {
+    /* border: 1px solid; */
+    color: rgb(117, 113, 113);
+    height: 10vh;
+    width: 100vw;
+    margin-top: 5rem;
+    background-color: #E7DCD6;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    /* position: fixed;
+    left: 0;
+    bottom: 0; */
+}
+footer > img {
+    width: 50px;
+    height: 50px;
+    
+}
