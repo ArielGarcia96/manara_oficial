@@ -38,6 +38,13 @@
     color: black;
     border: none;
 }
+/* .jabones {
+    border: solid 1px;
+    display: flex !important;
+} */
+.product {
+    width: 40vw;
+}
 
 footer {
     /* border: 1px solid; */
@@ -57,4 +64,11 @@ footer > img {
     width: 50px;
     height: 50px;
     
+}
+
+footer > a  > img{
+    cursor: pointer;
+    display: inline-block;
+    width: 50px;
+    height: 50px;
 }
